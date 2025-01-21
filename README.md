@@ -63,16 +63,17 @@
       </a>
   &nbsp;
       <a>
-        <img alt="Notion" width="60px" title="Notion" src="https://skillicons.dev/icons?i=notion&perline=10">         
-      </a>
-  &nbsp;
-      <a>
         <img alt="Looker Studio" width="60px" title="Looker Studio" src="https://www.svgrepo.com/show/354012/looker-icon.svg">
       </a>
   &nbsp;
       <a>
         <img alt="Microsoft Excel" width="60px" title="Microsoft Excel" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/microsoft-excel-icon.png">
       </a>
+  &nbsp;
+      <a>
+        <img alt="Notion" width="60px" title="Notion" src="https://skillicons.dev/icons?i=notion&perline=10">         
+      </a>
+
 </p>
 
 ### 👨‍💻 Operating System
