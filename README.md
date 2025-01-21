@@ -7,7 +7,7 @@
 <!-- <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/> 
 </p> -->
-<h1 align="center"> >Hello World_ <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <a href="https://github.com/benjaminvalenzuela">Benjamín Valenzuela Aedo<a></h1>
+<h1 align="center"> >Hello World_ <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <a href="https://github.com/benjaminvalenzuela">Benja<a></h1>
 <h3 align="center">Computer Engineering Student</h3>
 
 ## 🛠️ My Skills
