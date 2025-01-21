@@ -59,7 +59,7 @@
     </a>
   &nbsp;
       <a>
-        <img alt="Trello" width="60px" title="Trello" src="https://img.shields.io/badge/Trello-0052cc?style=for-the-badge&logo=Trello&logoColor=white">
+        <img alt="Trello" width="60px" title="Trello" src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png">
       </a>
   &nbsp;
       <a>
@@ -67,11 +67,11 @@
       </a>
   &nbsp;
       <a>
-        <img alt="Looker Studio" width="60px" title="Looker Studio" src="https://img.shields.io/badge/Looker Studio-0052cc?style=for-the-badge&logo=LookerStudio&logoColor=white">
+        <img alt="Looker Studio" width="60px" title="Looker Studio" src="https://www.svgrepo.com/show/354012/looker-icon.svg">
       </a>
   &nbsp;
       <a>
-        <img alt="Microsoft Excel" width="60px" title="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+        <img alt="Microsoft Excel" width="60px" title="Microsoft Excel" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/microsoft-excel-icon.png">
       </a>
 </p>
 
@@ -92,11 +92,11 @@
 <p align="center">
   &emsp;
   <a href="https://www.linkedin.com/in/benjam%C3%ADn-valenzuela-aedo-41625a254/">
-    <img alt="LinkedIn" width="60px" title="LinkedIn" src="https://skillicons.dev/icons?i=linkedin&perline=10">
+    <img alt="LinkedIn" width="60px" title="LinkedIn" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png">
   </a>
   &nbsp;
   <a href="https://www.instagram.com/benjaminvalenzuelaa_/">
-    <img alt="Instagram" width="60px" title="Instagram" src="https://skillicons.dev/icons?i=instagram&perline=10">
+    <img alt="Instagram" width="60px" title="Instagram" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.png">
   </a>
   &nbsp;
   <a>
@@ -104,7 +104,7 @@
   </a>
   &nbsp;
   <a href="https://music.apple.com/profile/benjaminvalenzuelaa">
-    <img alt="Apple Music" width="60px" title="Apple Music" src="">
+    <img alt="Apple Music" width="60px" title="Apple Music" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Apple_Music_icon.svg/2048px-Apple_Music_icon.svg.png">
   </a>
 </p>
 
