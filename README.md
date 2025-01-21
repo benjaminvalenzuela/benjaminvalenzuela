@@ -39,7 +39,7 @@
 <p align="left">
   &emsp;
     <a>
-      <img width="60px" title="SQL Server" src="https://img.icons8.com/color/512/microsoft-sql-server.png">
+      <img width="60px" title="SQL Server" src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/microsoftSQL.svg"> 
     </a>
  </p>
 
@@ -89,7 +89,7 @@
 </p>
 
 ### 👥 Connect with me
-<p>
+<p align="center">
   &emsp;
   <a href="https://www.linkedin.com/in/benjam%C3%ADn-valenzuela-aedo-41625a254/">
     <img alt="LinkedIn" width="60px" title="LinkedIn" src="https://skillicons.dev/icons?i=linkedin&perline=10">
