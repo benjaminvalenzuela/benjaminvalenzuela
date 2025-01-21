@@ -55,7 +55,7 @@
     </a>
   &nbsp;
     <a>
-      <img alt="Google Colab" width="60px" title="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
+      <img alt="Google Colab" width="60px" title="Google Colab" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/colab-color.png">
     </a>
   &nbsp;
       <a>
