@@ -50,6 +50,10 @@
     </a>
   &nbsp;
    <a>
+      <img alt="Visual Studio" width="60px" title="Visual Studio" src="https://skillicons.dev/icons?i=visualstudio&perline=10">
+    </a>
+  &nbsp;
+   <a>
       <img alt="Kali Linux" width="60px" title="Kali Linux" src="https://skillicons.dev/icons?i=kali&perline=10">
     </a>
   &nbsp;
