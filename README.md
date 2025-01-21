@@ -1,7 +1,6 @@
 <div>
 🔴🟡🟢
 
-<br>
 
 </div>
 
@@ -89,7 +88,9 @@
     </a>
 </p>
 
-### 👥 Connect with me
+### <h2> 👥 Connect with me </h2>
+
+
 <p align="center">
   &emsp;
   <a href="https://www.linkedin.com/in/benjam%C3%ADn-valenzuela-aedo-41625a254/">
@@ -108,5 +109,3 @@
     <img alt="Apple Music" width="60px" title="Apple Music" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Apple_Music_icon.svg/2048px-Apple_Music_icon.svg.png">
   </a>
 </p>
-
-
