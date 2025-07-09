@@ -90,7 +90,7 @@
   </a>
   &nbsp;
   <a>
-    <img alt="Discord" width="60px" title="Usuario discord: benjaminvalenzuela_" src="https://skillicons.dev/icons?i=discord&perline=10">
+    <img alt="Discord" width="60px" title="Usuario discord: benjaminvalenzuelaa_" src="https://skillicons.dev/icons?i=discord&perline=10">
   </a>
   &nbsp;
   <a href="https://music.apple.com/profile/benjaminvalenzuelaa">
