@@ -54,10 +54,17 @@
   &nbsp;
       <img alt="Kali Linux" width="60px" title="Kali Linux" src="https://skillicons.dev/icons?i=kali&perline=10">  
   &nbsp;
-        <img alt="Notion" width="60px" title="Notion" src="https://skillicons.dev/icons?i=notion&perline=10">         
+        <img alt="Notion" width="60px" title="Notion" src="https://skillicons.dev/icons?i=notion&perline=10">   
 </p>
 
-### 👨‍💻 Sistemas Operativos
+ ### ⌨️ Terminal
+
+<p>
+   &emsp;
+        <img alt="Warp" width="67px" title="Warp" src="https://user-images.githubusercontent.com/85056161/221151383-dee5374b-03d9-4548-a0fd-35dfc7ea0f5b.png">
+</p>
+
+ ### 👨‍💻 Sistemas Operativos
  
 <p>
   &emsp;
