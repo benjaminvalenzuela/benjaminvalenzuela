@@ -85,8 +85,8 @@
     <img alt="LinkedIn" width="60px" title="LinkedIn" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png">
   </a>
   &nbsp;
-  <a style="text-decoration: none;" href="https://www.instagram.com/benjaminvalenzuelaa_/">
-    <img alt="Instagram" width="60px" title="Usuario instagram: benjaminvalenzuelaa_" src="https://github.com/pheralb/svgl/blob/main/static/library/instagram_dark.svg">
+  <a href="https://www.instagram.com/benjaminvalenzuelaa_/">
+    <img alt="Instagram" width="60px" title="Usuario instagram: benjaminvalenzuelaa_" src="https://scontent.fscl8-1.fna.fbcdn.net/v/t39.8562-6/281121690_1405565156561528_5410302815916975490_n.png?_nc_cat=100&ccb=1-7&_nc_sid=f537c7&_nc_ohc=ot5Jhvyt0DUQ7kNvwHwqmYA&_nc_oc=Adn6IqdTym_O4Gom7pu9_nuTNgAaKCTs5YkHNY6Pc5TvEfGtfExhGh-6L6lCXmY46-0&_nc_zt=14&_nc_ht=scontent.fscl8-1.fna&_nc_gid=Wj7WaztUKu1bqX5rdVr2AQ&oh=00_AfQjLXr5KL2AKD24_Q04aqiegbhajcf9VIOioJ57wj7LeQ&oe=6873AC3E">
   </a>
   &nbsp;
   <a>
