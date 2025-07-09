@@ -70,8 +70,7 @@
     </a>
 </p>
 
-### <h2> 👥 Connect with me </h2>
-
+### <h2 align="center"> 👥 Connect with me </h2>
 
 <p align="center">
   &emsp;
@@ -79,7 +78,7 @@
     <img alt="LinkedIn" width="60px" title="LinkedIn" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png">
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/benjaminvalenzuelaa_/">
+  <a style="text-decoration: none;" href="https://www.instagram.com/benjaminvalenzuelaa_/">
     <img alt="Instagram" width="60px" title="Usuario instagram: benjaminvalenzuelaa_" src="https://github.com/pheralb/svgl/blob/main/static/library/instagram_dark.svg">
   </a>
   &nbsp;
