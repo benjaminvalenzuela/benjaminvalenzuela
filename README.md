@@ -48,11 +48,11 @@
   &nbsp;
       <img alt="Visual Studio" width="60px" title="Visual Studio" src="https://github.com/pheralb/svgl/blob/main/static/library/visual-studio.svg">
   &nbsp;
-      <img alt="Docker" width="60px" title="Docker" src="https://github.com/pheralb/svgl/blob/main/static/library/docker.svg">      
+      <img alt="Docker" width="60px" title="Docker" src="https://github.com/pheralb/svgl/blob/main/static/library/docker.svg">
+  &nbsp;
+      <img alt="Figma" width="38px" title="Figma" src="https://github.com/pheralb/svgl/blob/main/static/library/figma.svg">  
   &nbsp;
       <img alt="Kali Linux" width="60px" title="Kali Linux" src="https://skillicons.dev/icons?i=kali&perline=10">  
-  &nbsp;
-      <img alt="Figma" width="38px" title="Figma" src="https://github.com/pheralb/svgl/blob/main/static/library/figma.svg">
   &nbsp;
         <img alt="Notion" width="60px" title="Notion" src="https://skillicons.dev/icons?i=notion&perline=10">         
 </p>
